@@ -1,0 +1,146 @@
+/* GLobal selectors */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+/* End of global selectors */
+
+/* Bookend refers to both header and footer sections */
+.bookend-text {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Text for the main content of the page */
+.body-text {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+.header {
+    padding: 20px;    
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/* "Horiseon" with special size and company colors */
+#company-logo {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* Color of the "seo" portion of the Horiseon logo */
+#company-logo .seo {
+    color: #d9dcd6;
+}
+
+.top-menu {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+}
+
+.top-menu ul {
+    list-style-type: none;
+}
+
+.top-menu ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.background-image {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/*  Group of main points Horiseon wants visitor to notice and remember */
+.primary-selling-points-group {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.primary-selling-point {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.primary-selling-point img {
+    max-height: 200px;
+}
+
+.primary-selling-point-title {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* End of main selling points */
+
+/* Several listed benefits Horiseon offers */
+.benefits-group {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    background-color: #2589bd;
+}
+
+.benefit {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-title {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+/* End of benefits */
+
+/* Start of footer */
+.footer {
+    padding: 30px;
+    clear: both;
+    text-align: center;
+}
+
+.footer .site-attribution {
+    font-size: 20px;
+}
+/* End of footer */
