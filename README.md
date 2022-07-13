@@ -8,7 +8,7 @@
   <h3 align="center">Horiseon WebPage</h3>
 
   <p align="center">
-    An general code maintenance update to the Horiseon main page.
+    An general code refactoring update to the Horiseon main page.
 </div>
 
 
@@ -37,7 +37,7 @@
 
 ![Product Screen Shot](assets/projectInfo/01-html-css-git-homework-demo.png)
 
-This project was focused on cleaning up and organizing the front-end code of Horiseon's main webpage without changing the look or functionality in any unneeded way.
+This project was focused on refactoring the code of Horiseon's main webpage without changing the look or functionality in any unneeded way.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
