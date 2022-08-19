@@ -1,14 +1,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://acotterson.github.io/ChallengeHTML/">
-    <img src="assets/projectInfo/horiseonLogo.jpg" alt="Logo">
+  <a href="https://acotterson.github.io/HTMLRefactor/">
+    <img src="assets/images/horiseonLogo.jpg" alt="Logo">
   </a>
 
-  <h3 align="center">Horiseon WebPage</h3>
+  <h3 align="center">Horiseon Web Page</h3>
 
   <p align="center">
-    An general code refactoring update to the Horiseon main page.
+    A general code refactoring update to the Horiseon main page.
 </div>
 
 
@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Screen Shot](assets/projectInfo/01-html-css-git-homework-demo.png)
+![Product Screen Shot](assets/images/screenshot.png)
 
 This project was focused on refactoring the code of Horiseon's main webpage without changing the look or functionality in any unneeded way.
 
@@ -56,7 +56,7 @@ This project was focused on refactoring the code of Horiseon's main webpage with
 ## How to View this Page
 
 Follow the link below to view the Horiseon page in your browser.
-* [Horiseon Home Page](https://acotterson.github.io/ChallengeHTML/)
+* [Horiseon Home Page](https://acotterson.github.io/HTMLRefactor/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -67,7 +67,7 @@ Follow the link below to view the Horiseon page in your browser.
 
 Alec Otterson - acotterson@gmail.com
 
-Project Link: [ChallengeHTML](https://github.com/acotterson/ChallengeHTML)
+Project Link: [ChallengeHTML](https://github.com/acotterson/HTMLRefactor)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
