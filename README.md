@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Screen Shot](assets/projectInfo/01-html-css-git-homework-demo.png)
+![Product Screen Shot](assets/additionalInfo/01-html-css-git-homework-demo.png)
 
 This project was focused on refactoring the code of Horiseon's main webpage without changing the look or functionality in any unneeded way.
 
